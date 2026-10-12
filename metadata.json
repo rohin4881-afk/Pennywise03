@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pennywise",
+  "description": "Mobile-first personal finance and expense tracker for India with budget management, savings goals, and local privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
